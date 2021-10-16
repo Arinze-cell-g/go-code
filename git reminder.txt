@@ -1,0 +1,7 @@
+// create repository
+
+cmd // command prompt
+dir // to check which directory you are in.
+cd // change directory
+git clone // this is used to clone a repository
+git status
